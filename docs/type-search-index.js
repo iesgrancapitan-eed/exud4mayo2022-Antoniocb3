@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.acb.eed.examen.OptimizacionYDocumentacion","l":"Mascota"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"com.acb.eed.examen.OptimizacionYDocumentacion","l":"EdadErroneaException"},{"p":"com.acb.eed.examen.OptimizacionYDocumentacion","l":"Mascota"},{"p":"com.acb.eed.examen.OptimizacionYDocumentacion","l":"Perro"}];updateSearchResults();
