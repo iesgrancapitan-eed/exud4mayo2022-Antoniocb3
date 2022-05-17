@@ -24,10 +24,14 @@ Realizado.
 8.  En la clase EdadErroneaException haz las refactorizaciones que necesites para que el parámetro string se denomine message
    
 9.  Realiza un commit con el mensaje "refactor: mensaje de la excepción " 
+
+Realizado
    
 10. En la clase Perro haz las refactorizaciones que necesites para que "GUAUUUUUUUUUU" sea un campo estático de la clase. Deja el nombre propuesto
 
 11. Realiza un commit con el mensaje "refactor: GUAUUUUUUUUUU " 
+
+Realizado
 
 12. Extrae una superclase "Mascota" a partir de la clase "Perro". Incluye todo lo relacionado con el nombre de la mascota.
 13. Añade el diálogo de la refactorización con todo debidamente marcado
