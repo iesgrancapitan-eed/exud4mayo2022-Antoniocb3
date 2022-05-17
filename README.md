@@ -44,6 +44,8 @@ Issue realizado
 - Los atributos
 - Los métodos
  
+Realizado 
+
 18. Realiza un commit con el mensaje "docs: comentarios javadoc " 
 19. En Eclipse, genera la documentación Javadoc en la carpeta **docs**
 
