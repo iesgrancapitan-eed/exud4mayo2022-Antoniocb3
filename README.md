@@ -53,6 +53,8 @@ Realizado
 
 21. Fusiona la rama "documentation" en la rama "develop". 
 
+Realizado
+
 22. Fusiona la rama "develop" en la rama maestra. 
 
 ## GitHub Pages
