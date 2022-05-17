@@ -44,12 +44,16 @@ Issue realizado
 - Los atributos
 - Los métodos
  
+Realizado 
+
 18. Realiza un commit con el mensaje "docs: comentarios javadoc " 
 19. En Eclipse, genera la documentación Javadoc en la carpeta **docs**
 
 20. Realiza un commit con el mensaje "docs: documentación javadoc " 
 
 21. Fusiona la rama "documentation" en la rama "develop". 
+
+Realizado
 
 22. Fusiona la rama "develop" en la rama maestra. 
 
