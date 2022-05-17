@@ -45,6 +45,8 @@ Realizado
 14. Realiza un commit con el mensaje "refactor: Mascota "
 15. Fusiona la rama "refactoring" en la rama "develop" 
 
+Realizado
+
 ## Documentación
 16. Crea la **rama "documentation"** a partir de la rama "develop". Trabajarás en ella la documentación.
 
