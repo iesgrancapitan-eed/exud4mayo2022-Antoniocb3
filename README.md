@@ -7,6 +7,7 @@
 ## Issue
 3. A continuación aparecen distintos commits. En cualquiera de ellos ha de cerrarse un issue desde el mensaje. 
 4. Para ello abre en este repositorio un nuevo issue con el mensaje/descripción adecuado. Debes indicar la **línea del código** a la que afecta. Etiqueta el issue con la **etiqueta** adecuada. Usa las menciones para que me llegue una notificación (**@lmagarin**). Lo cerrarás directamente desde el mensaje del commit.
+Issue realizado
 
 ## Refactorización
 5. Crea la **rama "refactoring"** a partir de la rama "develop". Trabajarás en ella la refactorización
