@@ -34,9 +34,13 @@ Realizado
 Realizado
 
 12. Extrae una superclase "Mascota" a partir de la clase "Perro". Incluye todo lo relacionado con el nombre de la mascota.
+
+Realizado 
+
+
 13. Añade el diálogo de la refactorización con todo debidamente marcado
 
-
+![?](imagenes/img1.PNG)
 
 14. Realiza un commit con el mensaje "refactor: Mascota "
 15. Fusiona la rama "refactoring" en la rama "develop" 
