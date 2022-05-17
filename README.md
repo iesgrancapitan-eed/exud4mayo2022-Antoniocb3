@@ -19,6 +19,7 @@ En mi caso la voy a llamar refactoring2
 
 7.  Realiza un commit con el mensaje "refactor: nombre del paquete " 
 
+Realizado.
 
 8.  En la clase EdadErroneaException haz las refactorizaciones que necesites para que el parámetro string se denomine message
    
